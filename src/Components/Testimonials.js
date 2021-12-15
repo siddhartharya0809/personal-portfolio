@@ -1,4 +1,3 @@
-/*
 import React from "react";
 
 const Testimonials = ({ data }) => {
@@ -35,4 +34,3 @@ const Testimonials = ({ data }) => {
 };
 
 export default Testimonials;
-*/
