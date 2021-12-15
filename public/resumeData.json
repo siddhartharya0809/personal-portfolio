@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Siddharth Arya",
+    "occupation": "Web Developer",
+    "description": "I eat, sleep, breathe, and talk about code all day long.",
+    "image": "profilepic.jpg",
+    "bio": "I'm a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, JavaScript, and node; dabbling with Python; and inhaling a wide variety of potentially useless information through my YouTube, LinkedIn and Twitter feeds. I build websites that delight and inform. I'm curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand. The list of projects I follow on GitHub will give you a good idea of the types of tools I'd prefer to be using, and my “Starred” list will give you a glimpse into the reading material I find interesting enough to share.",
+    "contactmessage": "Get in touch with me, with any of the methods mentioned in this site",
+    "email": "siddhartharya084@gmail.com",
+    "phone": "+91 9413744476",
+    "address": {
+      "street": "Rameshwaram Apartments, Omaxe City, Ajmer Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "302026"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/18XxQ7RhI98fX0UemZZeoCAnHNYWQ2voZ/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/siddhartharya084",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/siddhartharya0809",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/siddharth.arya.14019/",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_siddharth.arya_/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "SRM University, Delhi - NCR Campus",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2023",
+        "description": "Doing a specialisation in Data science and Artificial Intelligence"
+      }
+    ],
+    "work": [
+      {
+        "company": "CPR (Centre for Policy Research",
+        "title": "Research and Development Intern",
+        "years": "June 2021 - July 2021",
+        "description": "Researched about Land laws of India and developed a web application to show all those laws in a geographical interface map of India."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "category": "",
+        "image": "WhatsApp.png",
+        "url": "https://github.com/siddhartharya0809/WhatsApp-Clone"
+      },
+      {
+        "title": "Youtube Clone (Django and React JS)",
+        "category": "",
+        "image": "YouTube.png",
+        "url": "https://www.google.com/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://www.google.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
