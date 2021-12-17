@@ -2,7 +2,7 @@
   "main": {
     "name": "Siddharth Arya",
     "occupation": "Web Developer",
-    "description": "I eat, sleep, breathe, and talk about code all day long.",
+    "description": "I build and design websites which are dynamic and interactive...",
     "image": "profilepic.jpg",
     "bio": "I'm a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, JavaScript, and node; dabbling with Python; and inhaling a wide variety of potentially useless information through my YouTube, LinkedIn and Twitter feeds. I build websites that delight and inform. I'm curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand. The list of projects I follow on GitHub will give you a good idea of the types of tools I'd prefer to be using, and my “Starred” list will give you a glimpse into the reading material I find interesting enough to share.",
     "contactmessage": "Get in touch with me, with any of the methods mentioned in this site",
@@ -106,7 +106,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Siddharth is an enthusiatic and commited developer. He was diligent and disciplined in completing all the assigned tasks during the internship despite it's remote nature. He activley participates in team discussions, collaborated with his collegues, and took initiaive throughout the internship",
+        "text": "Siddharth is an enthusiatic and commited developer. He was diligent and disciplined in completing all the assigned tasks during the internship despite it's remote nature. He activley participates in team discussions, collaborated with his collegues, and took initiaive throughout the intern ship",
         "user": "Kaustav DeBiswas, Visiting Fellow, CPR - Land Rights Initiative"
       }
     ]

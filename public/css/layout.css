@@ -455,7 +455,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: #ebeeee;
+  background: #ebebeb;
   padding-top: 90px;
   padding-bottom: 60px;
 }
@@ -465,7 +465,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #95a3a3;
+  color: #6f7070;
 }
 
 /* Portfolio Content */
@@ -473,7 +473,7 @@ ul#nav li.current a {
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
-  background: #fff;
+  background: #ebebeb;
   overflow: hidden;
   position: relative;
 
@@ -562,7 +562,7 @@ ul#nav li.current a {
 /* popup modal */
 .popup-modal {
   max-width: 550px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   position: relative;
   margin: 0 auto;
 }
@@ -603,7 +603,7 @@ ul#nav li.current a {
   cursor: pointer;
 }
 .popup-modal a:hover {
-  color: #00cccc;
+  color: #ffffff;
 }
 .popup-modal a.popup-modal-dismiss {
   margin-left: 24px;
