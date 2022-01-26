@@ -14,7 +14,7 @@
       "state": "Rajasthan",
       "zip": "302026"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://siddhartharya-portfolio.netlify.app/",
     "resumedownload": "https://drive.google.com/file/d/18XxQ7RhI98fX0UemZZeoCAnHNYWQ2voZ/view?usp=sharing",
     "social": [
       {
@@ -90,16 +90,22 @@
         "url": "https://github.com/siddhartharya0809/WhatsApp-Clone"
       },
       {
-        "title": "Youtube Clone (Django and React JS)",
+        "title": "ToDo list(HTML, CSS, JS)",
         "category": "",
-        "image": "YouTube.png",
-        "url": "https://www.google.com/"
+        "image": "Todo-list.png",
+        "url": "https://siddhartharya0809.github.io/TodoApp/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Background chnage",
         "category": "",
-        "image": "linkedin.png",
-        "url": "https://www.google.com/"
+        "image": "bg-change.png",
+        "url": "https://siddhartharya0809.github.io/background-change/"
+      },
+      {
+        "title": "Split Screen UI",
+        "category": "",
+        "image": "split-screen.png",
+        "url": "https://siddhartharya0809.github.io/Split-Screen-UI/"
       }
     ]
   },
