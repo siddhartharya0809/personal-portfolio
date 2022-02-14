@@ -84,10 +84,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Whatsapp Clone (React JS)",
+        "title": "Ebuy. (React JS)",
         "category": "",
-        "image": "WhatsApp.png",
-        "url": "https://github.com/siddhartharya0809/WhatsApp-Clone"
+        "image": "ebuy.png",
+        "url": "https://ebuy-v3.netlify.app/"
       },
       {
         "title": "ToDo list(HTML, CSS, JS)",
