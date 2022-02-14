@@ -85,25 +85,25 @@
     "projects": [
       {
         "title": "Ebuy. (React JS)",
-        "category": "",
+        "category": "frontend",
         "image": "ebuy.png",
         "url": "https://ebuy-v3.netlify.app/"
       },
       {
         "title": "ToDo list(HTML, CSS, JS)",
-        "category": "",
+        "category": "frontend",
         "image": "todo.png",
         "url": "https://siddhartharya0809.github.io/TodoApp/"
       },
       {
         "title": "Background change",
-        "category": "",
+        "category": "frontend",
         "image": "bg-change.png",
         "url": "https://siddhartharya0809.github.io/background-change/"
       },
       {
         "title": "Split Screen UI",
-        "category": "",
+        "category": "frontend",
         "image": "split-screen.png",
         "url": "https://siddhartharya0809.github.io/Split-Screen-UI/"
       }
