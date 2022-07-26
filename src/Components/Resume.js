@@ -24,6 +24,9 @@ const Resume = ({ data }) => {
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
           <p>{work.description}</p>
+          <p>Check Here:
+            <a href="https://landlawsofindia.org/">{work.link}</a>
+          </p>
         </div>
       );
     });
